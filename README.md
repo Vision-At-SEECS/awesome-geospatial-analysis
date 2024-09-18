@@ -1,11 +1,9 @@
 # awesome-geospatial-analysis
 A curated collection of cutting-edge resources, tools, and techniques for remote sensing and geospatial analysis. Perfect for researchers, developers, and GIS enthusiasts exploring Earth observation and environmental monitoring.
 
-<span style="color:blue">some *blue* text</span>.
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Introduction
+# Introduction
 
 * [Remote Sensing Image Analytics Starter Guide](https://vision.seecs.edu.pk/downloads/#flipbook-df_60773/3/)
 * [Nasa Worldview](https://worldview.earthdata.nasa.gov)
@@ -19,7 +17,8 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [DigitalGlobe Crowdsourced Detection](http://www.tomnod.com/)
 * [Watching penguins and their poo from space](http://www.bbc.com/earth/story/20141210-surprising-use-of-penguin-poo)
 * [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index)
-## Tools, Libraries
+
+# Tools, Libraries
 
 * [QGIS](http://qgis.org/en/site/) - open source GIS 
 * [Orfeo Toolbox](https://www.orfeo-toolbox.org/)
@@ -28,7 +27,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [GDAL](http://www.gdal.org/) geospatial analysis library
 
 
-## Projects
+# Projects
 
 * [OSMDeepOD](https://github.com/geometalab/OSMDeepOD) - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")
 * [DeepOSM](https://github.com/trailbehind/DeepOSM) - detecting roads in satellite images using deep learning
@@ -37,7 +36,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [Terrapattern on Github](https://github.com/CreativeInquiry/terrapattern) - satellite image pattern search
 * [Terrapattern](http://www.terrapattern.com/about) - satellite image search based on patterns
 
-## Data
+# Data
 
 * [Scihub Copernicus](https://scihub.copernicus.eu/)
 * [NASA Earthdata](https://earthdata.nasa.gov/earth-observation-data)
@@ -45,7 +44,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [AstroDigital](https://fetch.astrodigital.com)
 * [Sentinel2 on AWS](https://aws.amazon.com/public-datasets/sentinel-2/)
 
-## Courses
+# Courses
 
 * [Futurelearn Monitoring Oceans from Space](https://www.futurelearn.com/courses/oceans-from-space/1)
 * [Futurelearn Optical Earth Observation](https://www.futurelearn.com/courses/optical-earth-observation)
@@ -56,7 +55,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [Udacity Computer Vision](https://classroom.udacity.com/courses/ud810/)
 * [PyimageSearch - Learn OpenCV](http://www.pyimagesearch.com/start-here-learn-computer-vision-opencv/)
 
-## Object Detection
+# Object Detection
 
 * [Neural net dreaming of cars](https://orbitalinsight.com/neural-net-dreams-cars/)
 * [Tracking Oil Tanks](https://medium.com/from-the-macroscope/the-science-behind-the-signal-tracking-unknown-oil-tanks-around-the-world-9fc917e25795)
@@ -70,7 +69,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [DigitalGlobe MLTools](https://github.com/DigitalGlobe/mltools)
 * [DigitalGlobe DeepCore SDK](https://github.com/DigitalGlobe/DeepCore)
 
-## Research
+# Research
 
 * [Python based object Image Analysis](http://www.mdpi.com/2072-4292/6/7/6111/htm)
 * [Mapping regional economic activity from night-time light satellite imagery](http://www.sciencedirect.com/science/article/pii/S0921800905001254)
@@ -79,24 +78,21 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 * [Oil Spill Detection using SAR](https://pdfs.semanticscholar.org/ed90/eb344aa14b91321fd30d44a806c0ff6e3b39.pdf)
 * [Building Detection - Yuan 2016](https://arxiv.org/pdf/1602.06564v1.pdf)
 
-## Books
+# Books
 
 * [QGis Python Programming Cookbook](https://www.packtpub.com/application-development/qgis-python-programming-cookbook)
 * [Szeliszki - Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 
-## Computer Vision
+# Computer Vision
 
 * [Point Clouds](http://pointclouds.org)
 * [Motion Detection](http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/)
 
-## Water Quality
+# Water Quality
 
 * [Water Quality inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
 
-```diff
-- ## Remote Sensing Papers
-```
-
+# Remote Sensing Papers
 A curated list of the best remote sensing papers by category
 
 ### Machine Learning
