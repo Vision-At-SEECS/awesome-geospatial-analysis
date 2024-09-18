@@ -161,13 +161,9 @@ A curated list of the best remote sensing papers by category
   - [Remote Sensing Vision-Location Foundation Models](#remote-sensing-vision-location-foundation-models)
   - [Remote Sensing Vision-Audio Foundation Models](#remote-sensing-vision-audio-foundation-models)
   - [Remote Sensing Task-specific Foundation Models](#remote-sensing-task-specific-foundation-models)
-  - [Remote Sensing Agents](#remote-sensing-agents)
 - **Datasets & Benchmarks**
   - [Benchmarks for RSFMs](#benchmarks-for-rSFMs)
   - [(Large-scale) Pre-training Datasets](#large-scale-Pre-training-Datasets)
-- **Others**
-  - [Relevant Projects](#relevant-projects)
-  - [Survey Papers](#survey-papers)
   
 ### Remote Sensing <ins>Vision</ins> Foundation Models
 
