@@ -91,7 +91,9 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 
 * [Water Quality inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
 
-## Remote Sensing Papers
+```diff
+- ## Remote Sensing Papers
+```
 
 A curated list of the best remote sensing papers by category
 
