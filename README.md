@@ -1,6 +1,8 @@
 # awesome-geospatial-analysis
 A curated collection of cutting-edge resources, tools, and techniques for remote sensing and geospatial analysis. Perfect for researchers, developers, and GIS enthusiasts exploring Earth observation and environmental monitoring.
 
+<span style="color:blue">some *blue* text</span>.
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Introduction
