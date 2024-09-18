@@ -5,7 +5,7 @@ A curated collection of cutting-edge resources, tools, and techniques for remote
 
 ## Introduction
 
-* [Remote Sensing Image Analytics Starter Guide]([https://worldview.earthdata.nasa.gov](https://vision.seecs.edu.pk/downloads/#flipbook-df_60773/3/))
+* [Remote Sensing Image Analytics Starter Guide](https://vision.seecs.edu.pk/downloads/#flipbook-df_60773/3/)
 * [Nasa Worldview](https://worldview.earthdata.nasa.gov)
 * [Landsat Viewer](http://landsatappv1p3.s3-website-us-west-2.amazonaws.com/)
 * [Urthecast Gallery](http://gallery.urthecast.com/)
